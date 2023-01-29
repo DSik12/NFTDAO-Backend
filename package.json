@@ -20,6 +20,10 @@
   "homepage": "https://github.com/DSik12/NFTDAO-Backend#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "ipfs-http-client": "^60.0.0"
+    "express-jwt": "^8.4.0",
+    "ipfs-http-client": "^60.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.0",
+    "uuid": "^9.0.0"
   }
 }
