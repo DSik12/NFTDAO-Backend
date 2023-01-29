@@ -2,7 +2,6 @@
   "name": "nftdao-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
@@ -11,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/DSik12/NFTDAO-Backend.git"
   },
-  "author": "",
+  "author": "aniket",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DSik12/NFTDAO-Backend/issues"
