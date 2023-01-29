@@ -1,0 +1,25 @@
+{
+  "name": "nftdao-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSik12/NFTDAO-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSik12/NFTDAO-Backend/issues"
+  },
+  "homepage": "https://github.com/DSik12/NFTDAO-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ipfs-http-client": "^60.0.0"
+  }
+}
