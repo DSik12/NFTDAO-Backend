@@ -1,7 +1,6 @@
 {
   "name": "nftdao-backend",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "scripts": {
     "start": "node index.js"
