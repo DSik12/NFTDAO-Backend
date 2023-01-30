@@ -30,7 +30,7 @@ const Contact = mongoose.model("User", userSchema);
 const router = express.Router();
 
 router.get("/", (req, res) => {
-  res.send("Hi from backend");
+  res.send("Hi from backend open this page");
 });
 
 router.post("/register", (req, res) => {
