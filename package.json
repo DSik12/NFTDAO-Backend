@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/DSik12/NFTDAO-Backend#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "express-jwt": "^8.4.0",
     "ipfs-http-client": "^60.0.0",
